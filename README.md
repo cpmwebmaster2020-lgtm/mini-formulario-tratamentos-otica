@@ -1,2 +1,1 @@
-# site-cpmwebmaster
-Projetos, sites e landing pages da CPMWEBMASTER
+Mini formulário para óticas com seleção de tratamentos de lentes (ex: multifocal, antirreflexo, blue light) e upload de receita. Estrutura flexível em HTML, CSS, JS e PHP, pensada para adaptação conforme cada ótica e integração com WooCommerce.
